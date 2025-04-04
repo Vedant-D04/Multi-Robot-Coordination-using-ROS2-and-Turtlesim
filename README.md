@@ -25,7 +25,20 @@ sudo apt update && sudo apt install -y \
 
 pip install opencv-python mediapipe
 ```
+## 🛠 Running
+```bash
+# Navigate to your ROS2 workspace
+cd ~/ros2_ws
 
+# Build the project
+colcon build
+
+# Source the environment
+source install/setup.bash
+
+# Launch the multi-robot coordination system
+ros2 launch multi_robot_coordination multi_robot_system.launch.py
+```
 ## 🎯 System Overview
 
 The system consists of three key modules:
