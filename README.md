@@ -28,7 +28,7 @@ pip install opencv-python mediapipe
 ## 🛠 Running
 ```bash
 # Navigate to your ROS2 workspace
-cd ~/ros2_ws
+cd ~/coordination
 
 # Build the project
 colcon build
