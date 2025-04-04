@@ -25,7 +25,7 @@ sudo apt update && sudo apt install -y \
 
 pip install opencv-python mediapipe
 ```
-## 🛠 Running
+## ▶ Running
 ```bash
 # Navigate to your ROS2 workspace
 cd ~/coordination
