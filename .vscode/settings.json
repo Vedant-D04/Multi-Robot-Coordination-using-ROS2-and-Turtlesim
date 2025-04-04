@@ -1,0 +1,15 @@
+{
+    "ros.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/ros/workspaces/coordination/install/robot_coordination/lib/python3.12/site-packages",
+        "/home/ros/workspaces/coordination/install/multi_robot_coordination/lib/python3.12/site-packages",
+        "/home/ros/workspaces/coordination/install/gesture_recognition/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ros/workspaces/coordination/install/robot_coordination/lib/python3.12/site-packages",
+        "/home/ros/workspaces/coordination/install/multi_robot_coordination/lib/python3.12/site-packages",
+        "/home/ros/workspaces/coordination/install/gesture_recognition/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
